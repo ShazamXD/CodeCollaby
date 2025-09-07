@@ -78,7 +78,7 @@ const Home = () => {
                   Don't have an account?{" "}
                   <Link
                     to="/signup"
-                    className="text-white font-semibold underline hover:text-blue-300 transition"
+                    className="text-white font-semibold underline hover:text-black-300 transition"
                   >
                     Sign up here
                   </Link>
