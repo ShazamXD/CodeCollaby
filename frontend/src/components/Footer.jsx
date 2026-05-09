@@ -63,7 +63,7 @@ const Footer = () => {
                 <span>codecollabyy@gmail.com</span>
               </li>
               <li className="footer-link">
-                <span>+91 9335954649</span>
+                <span>+91 9335954649, +91 8744968272</span>
               </li>
               <li className="footer-link">
                 <span>Delhi, India</span>
